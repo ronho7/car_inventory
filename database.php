@@ -1,9 +1,9 @@
 <?php
   // create a connection to database
-  $servername = "localhost";
-  $username = "root";
-  $password = "Mycoding78@";
-  $dbname = "autoshop";
+  $servername = "";
+  $username = "";
+  $password = "";
+  $dbname = "";
   $conn = mysqli_connect($servername, $username, $password, $dbname);
   // Check connection
   if (!$conn) {
