@@ -1,0 +1,6 @@
+table, td, tr, th {
+  border: solid;
+  border-collapse: collapse;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
